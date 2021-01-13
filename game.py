@@ -1,4 +1,4 @@
-# Create your Phrase class logic here.
+
 from phrase import Phrase
 import random
 
